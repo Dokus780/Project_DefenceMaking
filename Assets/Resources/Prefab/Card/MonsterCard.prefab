@@ -527,7 +527,7 @@ GameObject:
   - component: {fileID: 8086615794040896909}
   - component: {fileID: -4288533579226311139}
   m_Layer: 5
-  m_Name: TileCard
+  m_Name: MonsterCard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
